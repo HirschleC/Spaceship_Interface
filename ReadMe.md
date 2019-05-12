@@ -1,4 +1,5 @@
 # Projekt Spaceship Interface
+
 Arduino Basic Tutorial
 
 [TOC]
@@ -24,16 +25,17 @@ Upload the code contained in this sketch on to your board
 ### Folder structure
 
 >Spaceship_Interface             => Arduino sketch folder
->  ├── Spaceship_Interface.ino   => main Arduino file
->  ├── schematics.png            => (optional) an image of the required schematics
->  ├── layout.png                => (optional) an image of the layout
->  └── ReadMe.md                 => this file
+> ├─ Spaceship_Interface.ino   => main Arduino file
+> ├─ schematics.png            => (optional) an image of the required schematics
+> ├─ layout.png                => (optional) an image of the layout
+> └─ ReadMe.md                 => this file
 
 ### Contributing
 
 To contribute to this project please contact hirschle <christian@hirschle.ch>
 
 ### BOM
+
 Add the bill of the materials you need for this project.
 
 | ID | Part name      | Part number | Quantity |
