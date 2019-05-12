@@ -24,11 +24,13 @@ Upload the code contained in this sketch on to your board
 
 ### Folder structure
 
->Spaceship_Interface             => Arduino sketch folder
-> ├─ Spaceship_Interface.ino   => main Arduino file
-> ├─ schematics.png            => (optional) an image of the required schematics
-> ├─ layout.png                => (optional) an image of the layout
-> └─ ReadMe.md                 => this file
+```
+ Spaceship_Interface             => Arduino sketch folder
+  ├─ Spaceship_Interface.ino   => main Arduino file
+  ├─ schematics.png            => (optional) an image of the required schematics
+  ├─ layout.png                => (optional) an image of the layout
+  └─ ReadMe.md                 => this file
+````
 
 ### Contributing
 
