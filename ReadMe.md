@@ -30,7 +30,7 @@ Upload the code contained in this sketch on to your board
   ├─ schematics.png            => (optional) an image of the required schematics
   ├─ layout.png                => (optional) an image of the layout
   └─ ReadMe.md                 => this file
-````
+```
 
 ### Contributing
 
